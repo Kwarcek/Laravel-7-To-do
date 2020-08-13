@@ -11,6 +11,8 @@ The app has a task steps module.
 
 -  [Livewire](https://laravel-livewire.com/).
 
+-  [Font awesome](https://fontawesome.com/).
+
   
 
 ## Demo
